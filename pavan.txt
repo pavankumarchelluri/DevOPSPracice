@@ -1,1 +1,2 @@
-merge conlict
+text file
+next change for pull..
